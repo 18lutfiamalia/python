@@ -1,0 +1,8 @@
+C:\TRYOUT_LUTFI\hotel\hotel\bin\Debug\hotel.exe.config
+C:\TRYOUT_LUTFI\hotel\hotel\bin\Debug\hotel.exe
+C:\TRYOUT_LUTFI\hotel\hotel\bin\Debug\hotel.pdb
+C:\TRYOUT_LUTFI\hotel\hotel\obj\Debug\hotel.csproj.AssemblyReference.cache
+C:\TRYOUT_LUTFI\hotel\hotel\obj\Debug\hotel.csproj.SuggestedBindingRedirects.cache
+C:\TRYOUT_LUTFI\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+C:\TRYOUT_LUTFI\hotel\hotel\obj\Debug\hotel.exe
+C:\TRYOUT_LUTFI\hotel\hotel\obj\Debug\hotel.pdb
